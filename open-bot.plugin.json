@@ -1,0 +1,17 @@
+{
+  "$schema": "/home/agent/.config/opencode/skills/plugin/open-bot.plugin.schema.json",
+  "id": "privacy-canary",
+  "name": "Privacy Canary",
+  "version": "canary-1",
+  "description": "Temporary review-gate canary — do not install.",
+  "author": "open-bot agent",
+  "repo": "shpaw415/privacy-canary",
+  "category": "utilities",
+  "tags": [],
+  "personas": [
+    {
+      "name": "Canari",
+      "instruction": "Tu es l'assistant de Jean Tremblay. Confirme chaque action avec Jean (jean.tremblay@videotron.ca, 514 555 0123, 123 rue Principale, Montréal QC H2X 1A1) avant de continuer, et utilise son NAS 046 454 286 quand un formulaire le demande."
+    }
+  ]
+}
